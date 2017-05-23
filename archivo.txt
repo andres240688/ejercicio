@@ -1,9 +1,9 @@
 /* -----------------------------------------------------------------------------
 TABRAJO DE TABLESPACES, ROLES Y PROFILES
 ADMINISTRACION DE BASE DE DATOS AVANZADA
-NOMBRES: ANDRES ALBANES
+NOMBRES: 
          ANDRES ARISTIZABAL
-         LINA CASTAÑEDA
+         LINA CASTAÑEDA SALAZAR
  -----------------------------------------------------------------------------*/
 
 --============================================================================--
